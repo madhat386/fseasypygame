@@ -11,7 +11,7 @@ setup(
     description="A simplified pygame wrapper for easier game development",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/madhat386/simplypygame",
+    url="https://github.com/madhat386/fseasypygame",
     packages=find_packages(),
     install_requires=["pygame>=2.5.1"],
     classifiers=[
